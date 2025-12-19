@@ -6,21 +6,17 @@ const friends = [
     { name: "Trọng Tuyền", img: "image/tuyen.jpg", date: "2004-01-31" }
 ];
 
-const letterText = `Gửi Thủy Linh – đứa bạn thân ngốc nghếch nhất mà tao từng thương,
+const letterText = `Gửi Thủy Linh – Ê đừng bấm cái nút [Xem Hết Luôn] để cho chữ nó chạy cho ló nghệ ,
 
-Hôm nay là sinh nhật mày, và tao nghĩ nếu không viết cho mày vài dòng thì đúng là thiếu sót lớn trong cuộc đời tao. Vì thật lòng mà nói, không phải ai cũng có may mắn có một người bạn vừa đần, vừa ngốc, vừa hài hước, lại vừa khiến người khác không thể không quý như mày.
-
-Tao không nhớ chính xác tụi mình thân nhau từ khi nào, chỉ nhớ là càng ngày tao càng quen với hình ảnh một Thủy Linh rất đặc trưng: suy nghĩ thì đơn giản, phản ứng thì chậm chậm, nói chuyện nhiều lúc ngơ ngác như chưa hiểu chuyện đời. Có những khoảnh khắc tao nhìn mày mà chỉ biết bật cười, tự hỏi không hiểu sao trên đời lại có một đứa ngốc một cách tự nhiên đến vậy. Nhưng cũng chính sự ngốc nghếch đó làm cho mày trở nên khác biệt và đáng yêu theo một cách rất riêng.
-
-Mày là kiểu người không cần cố gắng để gây cười, nhưng lại luôn làm người khác vui. Những câu nói vô tri, những hành động trẻ con, những lần phản ứng sai sai của mày – tất cả đều vô tình trở thành niềm vui cho những người ở cạnh. Có lúc mày như một đứa trẻ chưa kịp lớn, luôn sống bằng cảm xúc, bằng sự chân thành, không che giấu, không phòng bị. Và giữa một thế giới mà ai cũng phải học cách để phòng nhau, thì sự trong trẻo đó của mày thật sự rất quý giá.
-
-Tao biết mày không phải lúc nào cũng vui. Đằng sau cái vẻ ngoài ngốc nghếch và hay cười ấy, mày cũng có những lúc buồn, những lúc tủi thân, những lúc cảm thấy mình không đủ tốt. Nhưng mày hiếm khi nói ra, mà thường chọn cách cười cho qua, giả vờ như không có gì. Chính điều đó khiến tao thương mày nhiều hơn, vì mày mạnh mẽ theo một cách rất lặng lẽ.
-
-Cảm ơn mày vì đã là một người bạn rất thật trong cuộc đời tao. Cảm ơn vì đã không thay đổi để trở nên "khôn ngoan" hơn theo cách của người lớn, mà vẫn giữ được nét trẻ con, ngốc nghếch nhưng tử tế. Cảm ơn vì những lần ở bên nhau, dù chẳng làm gì lớn lao, nhưng chỉ cần có mày là mọi thứ cũng trở nên dễ chịu hơn rất nhiều.
-
-Sinh nhật này, tao mong mày sẽ luôn được yêu thương đúng với con người của mày. Mong mày vẫn ngốc nghếch vừa đủ để giữ được sự đáng yêu, nhưng cũng đủ mạnh mẽ để bảo vệ bản thân. Mong mày cười nhiều hơn, buồn ít hơn, và nếu có buồn thì nhớ rằng luôn có tao ở đây, sẵn sàng nghe mày nói những điều ngớ ngẩn nhất.
-
-Chúc mừng sinh nhật Thủy Linh. Cảm ơn vì đã xuất hiện trong cuộc đời tao với tư cách là một người bạn không hoàn hảo, nhưng không thể thay thế. 💛🎂`;
+Hôm nay là sinh nhật m thì đêm qua t render thư bằng chat gpt nhưng mà thấy Phương bảo năm sau m về quê lấy chồng r nên tao mới thu hồi tin nhắn để viết thư tay nhưng mà tao cũng không biết viết gì,
+tao hay bảo m đần nhưng mà thật ra không phải m đần đâu chỉ là kiểu m load chậm, với m bị ngơ ngác xong m cứ oe oe nên t mới bảo m là lân đình, nhưng m là người đầu tiên tao viết thư tay cho, mịa ny tao t còn chưa viết,
+mấy lần tao mắng m xong tao cảm thấy rất hân hận với hành động của mình nên tao đều đi chùa để xám hối ,tao không biết viết gì nữa nhưng mà thật sự nhìn mặt m rất hài ,kiểu mặt m nó rất ngơ ngác xong cứ đơ đễnh nên nhìn m buồn cười v,
+m đọc trên web với làm trên web chứ không dc bật f12 đọc ở file script đâu đấy, lần đâu tao gặp m t nghĩ m là gơn phố kiểu chảnh chọe ăn chơi, chát tán , không sợ ai , trên đâm sơn lâm dưới đâm hà bá, nhưng mãi về sua mới biết m ngơ ngác v,
+tao có hứa là sẽ kiếm ny cho m nhưng mà tao chưa thấy ai phù hợp với m cả, có mỗi đối tượng tao kể vs m thì bị đuổi r nhưng không sao tao mới quen được một anh ở Nghệ An , ảnh đẹp trai với hài ẻ lắm giọng anh còn hay nữa nhưng mà anh hay bị đuổi 
+ra ngoài ngủ một mình vì mọi người sợ ảnh quấy rối mọi người :))))), có nhiều cái mà tao muốn hỏi m sao lại như vậy nhưng mà thôi tao không nói nữa hahahahahahhahaa, tao thấy m sống tình cảm vì vừa nói cái m đã khóc r, nhưng mà năm sau m về quê thật à,
+à có một cái là bạn của tao lần tháng 6 xem ảnh đi Ninh Bình khen như này [ố bạn váy vàng đội nón xinh thế ,nhìn như tây ý nhìn sang v ò], những lần tao bảo ngón tay m múp thì m ko biết nhưng mà ngón tay múp là rất đẹp nhé ,người ta rất thích có ngón tay như vậy,
+thôi không biết viết gì nữa đâu nhưng mà chúc đi làm vui vẻ, được việc sự nghiệp thắng tiến và dù có sống hay làm việc ở bất kỳ đâu có gần bạn bè hay không thì vẫn phải hạnh phúc, phấn đấu kiên trì với mục tiêu đặt ra dù mục tiêu đó có phải là ước mơ của mình hay không,
+mệt mỏi thì nghỉ một tý chứ ko bỏ cuộc, cái gì không làm được thì vừa khóc vừa làm. CHỨC MỪNG SINH NHẬT`;
 
 let currentStep = 0;
 let typingInterval;
